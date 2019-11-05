@@ -1,5 +1,12 @@
 # params - command line parameter library
 
+
+[![GoDoc](https://godoc.org/github.com/ExploratoryEngineering/params?status.svg)](https://godoc.org/github.com/ExploratoryEngineering/params)
+[![Build Status](https://travis-ci.org/ExploratoryEngineering/params.svg?branch=master)](https://travis-ci.org/ExploratoryEngineering/params)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ExploratoryEngineering/params)](https://goreportcard.com/report/github.com/ExploratoryEngineering/params)
+[![codecov](https://codecov.io/gh/ExploratoryEngineering/params/branch/master/graph/badge.svg)](https://codecov.io/gh/ExploratoryEngineering/params)
+
+
 This is (yet another) command line parameter library. The main goal for this
 library is to make it easy to set up and use the command line parameters. The
 standard Go `flags` library is quite tedious to use and you find yourself
